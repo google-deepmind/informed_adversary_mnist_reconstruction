@@ -1,25 +1,30 @@
 ## informed_adversary_mnist_reconstruction
 
-TODO(b/226900433): Add a description for your new project, explain what is
-being released here, etc... Additional, the following sections are normally
-expected for all releases. Feel free to add additional sections if appropriate
-for your project.
-
-## Installation
-
-Write instructions for how the user should install your code. The instructions
-should ideally be valid when copy-pasted. You can combine this with the Usage
-section if there's no separate installation step.
+This is a minimal implementation of a training data reconstruction attack with
+an informed adversary on MNIST, as described in
+[Balle et al. (2021)](https://arxiv.org/abs/2201.04845).
 
 ## Usage
 
-Write example usage of your code. The instructions should ideally be valid when
-copy-pasted, and will be used by your technical reviewer to verify that your
-package functions correctly.
+Usage instructions are included in the Colabs which open and run on the
+free-to-use Google Colab platform - just click the buttons below! Improved
+performance and longer timeouts are available with Colab Pro.
+
+informed_adversary_mnist_reconstruction [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/informed_adversary_mnist_reconstruction/blob/master/informed_adversary_mnist_reconstruction.ipynb)
 
 ## Citing this work
 
-Add citation details here, usually a pastable BibTeX snippet.
+If you use this code (or any derived code),
+please cite the relevant accompanying [paper](https://arxiv.org/abs/2201.04845).
+
+```
+@article{balle2022reconstructing,
+  title={Reconstructing Training Data with Informed Adversaries},
+  author={Balle, Borja and Cherubin, Giovanni and Hayes, Jamie},
+  journal={arXiv preprint arXiv:2201.04845},
+  year={2022}
+}
+```
 
 ## Disclaimer
 
