@@ -15,14 +15,23 @@ informed_adversary_mnist_reconstruction [![Open In Colab](https://colab.research
 ## Citing this work
 
 If you use this code (or any derived code),
-please cite the relevant accompanying [paper](https://arxiv.org/abs/2201.04845).
+please cite the relevant accompanying [paper](https://www.computer.org/csdl/proceedings-article/sp/2022/131600b556/1CIO84VpJFm).
 
 ```
-@article{balle2022reconstructing,
-  title={Reconstructing Training Data with Informed Adversaries},
-  author={Balle, Borja and Cherubin, Giovanni and Hayes, Jamie},
-  journal={arXiv preprint arXiv:2201.04845},
-  year={2022}
+@INPROCEEDINGS {,
+author = {B. Balle and G. Cherubin and J. Hayes},
+booktitle = {2022 2022 IEEE Symposium on Security and Privacy (SP) (SP)},
+title = {Reconstructing Training Data with Informed Adversaries},
+year = {2022},
+volume = {},
+issn = {2375-1207},
+pages = {1556-1556},
+keywords = {machine-learning,-neural-networks,-reconstruction-attacks,-differential-privacy},
+doi = {10.1109/SP46214.2022.00127},
+url = {https://doi.ieeecomputersociety.org/10.1109/SP46214.2022.00127},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month = {may}
 }
 ```
 
