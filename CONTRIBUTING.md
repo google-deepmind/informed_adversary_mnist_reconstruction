@@ -1,5 +1,9 @@
 # How to Contribute
 
+# Pull Requests
+
+Please send in fixes through Pull Requests.
+
 ## Contributor License Agreement
 
 Contributions to this project must be accompanied by a Contributor License
